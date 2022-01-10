@@ -1,13 +1,4 @@
 
-Here is the space invader code
-
----------- Forwarded message ---------
-From: Ian Bhuiyan <ian.bhuiyan@willamettevalleyacademy.org>
-Date: Tue, Nov 9, 2021 at 7:00 PM
-Subject: here be the code also just copy the entire thing cuz i made too many changes
-To: Aosaf Rahman <481822@bsd48.org>, Noraise Islam <467718@bsd48.org>, Mahrus Mahmud <461718@bsd48.org>
-
-
 import math
 import random
 
